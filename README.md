@@ -16,10 +16,8 @@
 <p align = "center"> <a href="Manish"> <img width = "170px" height = "24" src = "https://komarev.com/ghpvc/?username=biinnhooxx&label=Visitantes&color=green&style= quadrado plano "alt =" biinnhooxx "/> </a> </p> <br> 
     
 ___
-<a href="https://github.com/biinnhooxx">
-  <img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=biinnhooxx&theme=dark&hide_langs_below=1" />
-</a>
 
+##Linguagens
 <p align = "center">
   <a href="https://github.com/biinnhooxx"> <img src = "https://github-readme-stats.vercel.app/api?username=biinnhooxx&theme=tokyonight&show_icons=true" /> </ a >
 </p>
