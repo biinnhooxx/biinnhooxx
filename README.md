@@ -5,6 +5,7 @@
 </p>
 
 <br>
+
 <p align = "center">
 <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif width="50">
 <p align = "center">
