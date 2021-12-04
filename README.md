@@ -6,7 +6,7 @@
 
 <br>
 
-<p align = "center">
+
 <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif width="50">
 <p align = "center">
 <a href="#"> <img title = "Whatsapp-Bot" src = "https://img.shields.io/badge/Whatsapp--Bot Para Termux-black? colorA = red & style = for-the-badge "> </a>
