@@ -22,6 +22,8 @@ ___
   <a href="https://github.com/biinnhooxx"> <img src = "https://github-readme-stats.vercel.app/api?username=biinnhooxx&theme=tokyonight&show_icons=true" /> </ a >
 </p>
 
+<br>
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game" width="980">
   
 
