@@ -4,6 +4,9 @@
   <img src = "https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> <br>
 </p>
 
+<br>
+<p align = "center">
+<img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif width="50">
 <p align = "center">
 <a href="#"> <img title = "Whatsapp-Bot" src = "https://img.shields.io/badge/Whatsapp--Bot Para Termux-black? colorA = red & style = for-the-badge "> </a>
 </p>
@@ -17,7 +20,7 @@
     
 ___
 
-##Linguagens
+
 <p align = "center">
   <a href="https://github.com/biinnhooxx"> <img src = "https://github-readme-stats.vercel.app/api?username=biinnhooxx&theme=tokyonight&show_icons=true" /> </ a >
 </p>
